@@ -1,0 +1,13 @@
+
+=== === DONE === ===
+HTML (Hypertext Markup Language)
+CSS (Cascading Style Sheet)
+Javascript
+Bahasa PHP
+Operasi File
+Koneksi Basisdata
+POST dan GET Method
+CMS (Content Management System)
+JSON dan RESTful API
+SESSION dan COOKIE
+Pemrograman Framework

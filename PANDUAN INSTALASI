@@ -1,0 +1,7 @@
+
+1. Aktifkan Apache dan MySQL
+2. Pindah folder ke [PATH]/xampp/htdocs
+3. Import database 
+    3.1 Buka http://localhost:[PORT]/phpmyadmin
+    3.2 Import file pemweb_kel10.sql ke database local MySQL
+4. Jalankan Website http://localhost:[PORT]/pemweb-kel10/

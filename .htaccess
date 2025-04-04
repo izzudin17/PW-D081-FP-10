@@ -1,0 +1,7 @@
+RewriteEngine On    # Turn on the rewriting engine
+
+RewriteRule ^api/Article/([0-9]+)*/?$ api/article.php?endpoint=$1 [NC,L]
+
+RewriteRule ^api/Article/category/([a-zA-Z_-]*)$ api/article.php?category=$1 [NC,L]
+
+RewriteRule ^api/Article/id/([0-9]+)*/?$ api/article.php?id=$1 [NC,L]

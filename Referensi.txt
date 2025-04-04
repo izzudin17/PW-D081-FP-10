@@ -1,0 +1,4 @@
+https://codepolitan.com/blog/tutorial-membuat-crud-php-dengan-mysql-59897c72d8470
+https://shareurcodes.com/blog/creating%20a%20simple%20rest%20api%20in%20php
+https://github.com/rizalrizal/SimpleApiPHP
+https://github.com/Nebula-Purple

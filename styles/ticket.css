@@ -1,0 +1,18 @@
+
+/* Nav Bar */
+header {
+    position: static;
+}
+
+.nav_bar .logo {
+    color: black;
+}
+
+.navigation .nav_items a {
+    color: black;
+}
+
+/* Form */
+.card {
+    margin: 0 10em 0 10em;
+}

@@ -1,0 +1,20 @@
+
+.table,
+.article {
+    padding: 0 5em 0 5em;
+}
+
+
+/* Nav Bar */
+header {
+    position: static;
+}
+
+.nav_bar .logo {
+    color: black;
+}
+
+.navigation .nav_items a {
+    color: black;
+}
+

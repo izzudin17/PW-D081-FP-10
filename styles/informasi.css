@@ -1,0 +1,13 @@
+
+/* Nav Bar */
+header {
+    position: static;
+}
+
+.nav_bar .logo {
+    color: black;
+}
+
+.navigation .nav_items a {
+    color: black;
+}
