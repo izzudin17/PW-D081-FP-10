@@ -4,4 +4,5 @@
 3. Import database 
     3.1 Buka http://localhost:[PORT]/phpmyadmin
     3.2 Import file pemweb_kel10.sql ke database local MySQL
-4. Jalankan Website http://localhost:[PORT]/pemweb-kel10/
+4. Sebelum menjalankan link tersebut ubah nama folder semula "PW – D081 – FP – 10" ke "pemweb-kel10"
+5. Jalankan Website http://localhost:[PORT]/pemweb-kel10/
